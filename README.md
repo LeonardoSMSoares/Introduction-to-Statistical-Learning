@@ -1,5 +1,5 @@
 # Introduction-to-Statistical-Learning
-Based on the book An Introduction to Statistical Learning (ISLP).
+Based on the book An Introduction to Statistical Learning, With Applications in Python  (ISLP).
 
 Resources: https://www.statlearning.com/resources-python
 
